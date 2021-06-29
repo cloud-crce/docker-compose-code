@@ -1,4 +1,4 @@
-<h3>Hello Learner! Welcome to MyOnlineEdu.com Tutorial</h3>
+<h3>Hello Learner! Welcome to Student Development programme on DEVOPS </h3>
 <h4>Attempting MySQL connection from php...</h4>
 <?php
 if(!empty($_ENV['MYSQL_HOST']))
